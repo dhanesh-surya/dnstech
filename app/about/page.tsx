@@ -173,7 +173,7 @@ export default function AboutPage() {
         <div className="container-custom text-center">
           <h2 className="mb-4 font-heading text-h2">Ready to Get Started?</h2>
           <p className="mb-8 text-body-large text-primary-50">
-            Let's discuss how we can help with your technology needs
+            Let&apos;s discuss how we can help with your technology needs
           </p>
           <a
             href="/contact"

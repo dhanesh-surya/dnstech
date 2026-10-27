@@ -10,7 +10,7 @@ export function CTASection() {
             Ready to Simplify Your Technology?
           </h2>
           <p className="mb-10 text-body-large text-primary-50">
-            Get in touch with our team today. We're here 24/7 to provide the
+            Get in touch with our team today. We&apos;re here 24/7 to provide the
             support and solutions you need.
           </p>
           <div className="flex flex-col justify-center gap-4 sm:flex-row">

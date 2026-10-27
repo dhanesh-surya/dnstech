@@ -1,6 +1,5 @@
 'use client';
 
-import type { Metadata } from 'next';
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
@@ -91,8 +90,8 @@ export default function ContactPage() {
               Get in Touch
             </h1>
             <p className="text-body-large text-primary-50 animate-slide-up">
-              Have a question or need assistance? We're here 24/7 to help. Reach
-              out to us and we'll respond as soon as possible.
+              Have a question or need assistance? We&apos;re here 24/7 to help. Reach
+              out to us and we&apos;ll respond as soon as possible.
             </p>
           </div>
         </div>

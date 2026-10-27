@@ -17,6 +17,7 @@ const nextConfig = {
   // Performance optimizations
   compress: true,
   poweredByHeader: false,
+
   
   // SEO and metadata
   async headers() {

@@ -39,3 +39,7 @@ next-env.d.ts
 *.swp
 *.swo
 *~
+
+# Local npm cache (used when default cache is not writable)
+.npm-cache
+.npm-logs

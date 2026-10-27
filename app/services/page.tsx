@@ -103,7 +103,7 @@ export default function ServicesPage() {
             </h1>
             <p className="text-body-large text-primary-50 animate-slide-up">
               Comprehensive technology solutions designed to meet your needs.
-              From IT support to custom software development, we're here to help
+              From IT support to custom software development, we&apos;re here to help
               24/7.
             </p>
           </div>
@@ -219,7 +219,7 @@ export default function ServicesPage() {
             Ready to Transform Your Technology?
           </h2>
           <p className="mb-8 text-body-large text-primary-50">
-            Let's discuss which service is right for your needs
+            Let&apos;s discuss which service is right for your needs
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
